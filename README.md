@@ -16,7 +16,7 @@ Week 2 Coding HW:
 
 2) Cat Image Recognition using Logistic Regression [Numpy]
 
-<li> Parameter Initialization (w, b) </li>
+<li> Parameter initialization (w, b) </li>
 <li> Forward and backward propagation function </li>
 <li> Optimization via gradient descent </li>
 <li> Prediction and visualization of the change in cost with different learning rates </li>
@@ -25,4 +25,21 @@ Week 2 Coding HW:
 
 Week 3 Coding HW:
 
+1) Shallow Neural Network and Logistic Regression to do binary classification of planar data [Numpy]
+
+<li> 2-layer neural network </li>
+<li> Forward/backward propagation, parameter updating, computing cost </li>
+<li> Visualization of decision boundary </li>
+
+<br>
+
+Week 4 Coding HW:
+
 1)
+
+
+
+
+
+
+
