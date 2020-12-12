@@ -1,4 +1,4 @@
-# Deep Learning (Uploading onto Github In Progress)
+# Deep Learning (Uploading In Progress)
 Deep Learning Specialization by DeepLearning.ai on Coursera
 
 <b> Course 1: Neural Networks and Deep Learning </b>
